@@ -14,3 +14,6 @@ insert into Cancion (Id_cancion,nombre_cancion,nombre_autor,nombre_cantante,nomb
 values(1,'Just the Way You Are','Bruno Mars','Bruno Mars','Doo-Wops & Hooligans', 2010)
 
 select * from Cancion
+
+insert into Cancion (Id_cancion,nombre_cancion,nombre_autor,nombre_cantante,nombre_album,annio)
+values(2,'Just the ','Bruno','Bruno ','Wops & Hoos', 2012)
